@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-mostrar-impares", "01-mostrar-impares\01-mostrar-impares.csproj", "{9BEB282C-7FBE-4814-A944-59A1CCB34918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BEB282C-7FBE-4814-A944-59A1CCB34918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEB282C-7FBE-4814-A944-59A1CCB34918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEB282C-7FBE-4814-A944-59A1CCB34918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEB282C-7FBE-4814-A944-59A1CCB34918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D184361A-681A-4074-A138-C419392483F2}
+	EndGlobalSection
+EndGlobal
