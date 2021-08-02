@@ -1,0 +1,13 @@
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\bin\Debug\netcoreapp3.1\03-vocales-en-una-frase.exe
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\bin\Debug\netcoreapp3.1\03-vocales-en-una-frase.deps.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\bin\Debug\netcoreapp3.1\03-vocales-en-una-frase.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\bin\Debug\netcoreapp3.1\03-vocales-en-una-frase.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\bin\Debug\netcoreapp3.1\03-vocales-en-una-frase.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\bin\Debug\netcoreapp3.1\03-vocales-en-una-frase.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\obj\Debug\netcoreapp3.1\03-vocales-en-una-frase.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\obj\Debug\netcoreapp3.1\03-vocales-en-una-frase.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\obj\Debug\netcoreapp3.1\03-vocales-en-una-frase.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\obj\Debug\netcoreapp3.1\03-vocales-en-una-frase.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\obj\Debug\netcoreapp3.1\03-vocales-en-una-frase.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\obj\Debug\netcoreapp3.1\03-vocales-en-una-frase.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\03-vocales-en-una-frase\03-vocales-en-una-frase\obj\Debug\netcoreapp3.1\03-vocales-en-una-frase.genruntimeconfig.cache

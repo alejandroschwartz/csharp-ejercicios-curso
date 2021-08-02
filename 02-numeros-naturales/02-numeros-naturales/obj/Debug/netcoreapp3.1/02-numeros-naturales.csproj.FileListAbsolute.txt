@@ -1,0 +1,13 @@
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\bin\Debug\netcoreapp3.1\02-numeros-naturales.exe
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\bin\Debug\netcoreapp3.1\02-numeros-naturales.deps.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\bin\Debug\netcoreapp3.1\02-numeros-naturales.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\bin\Debug\netcoreapp3.1\02-numeros-naturales.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\bin\Debug\netcoreapp3.1\02-numeros-naturales.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\bin\Debug\netcoreapp3.1\02-numeros-naturales.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\obj\Debug\netcoreapp3.1\02-numeros-naturales.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\obj\Debug\netcoreapp3.1\02-numeros-naturales.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\obj\Debug\netcoreapp3.1\02-numeros-naturales.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\obj\Debug\netcoreapp3.1\02-numeros-naturales.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\obj\Debug\netcoreapp3.1\02-numeros-naturales.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\obj\Debug\netcoreapp3.1\02-numeros-naturales.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\02-numeros-naturales\02-numeros-naturales\obj\Debug\netcoreapp3.1\02-numeros-naturales.genruntimeconfig.cache
