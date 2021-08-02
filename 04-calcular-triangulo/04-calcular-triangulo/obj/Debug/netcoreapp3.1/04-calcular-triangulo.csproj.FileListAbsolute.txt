@@ -1,0 +1,13 @@
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\bin\Debug\netcoreapp3.1\04-calcular-triangulo.exe
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\bin\Debug\netcoreapp3.1\04-calcular-triangulo.deps.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\bin\Debug\netcoreapp3.1\04-calcular-triangulo.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\bin\Debug\netcoreapp3.1\04-calcular-triangulo.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\bin\Debug\netcoreapp3.1\04-calcular-triangulo.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\bin\Debug\netcoreapp3.1\04-calcular-triangulo.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\obj\Debug\netcoreapp3.1\04-calcular-triangulo.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\obj\Debug\netcoreapp3.1\04-calcular-triangulo.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\obj\Debug\netcoreapp3.1\04-calcular-triangulo.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\obj\Debug\netcoreapp3.1\04-calcular-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\obj\Debug\netcoreapp3.1\04-calcular-triangulo.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\obj\Debug\netcoreapp3.1\04-calcular-triangulo.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\04-calcular-triangulo\04-calcular-triangulo\obj\Debug\netcoreapp3.1\04-calcular-triangulo.genruntimeconfig.cache

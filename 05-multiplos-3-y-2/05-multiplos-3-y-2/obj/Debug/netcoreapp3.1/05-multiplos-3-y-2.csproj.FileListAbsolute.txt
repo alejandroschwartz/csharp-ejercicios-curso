@@ -1,0 +1,13 @@
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\bin\Debug\netcoreapp3.1\05-multiplos-3-y-2.exe
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\bin\Debug\netcoreapp3.1\05-multiplos-3-y-2.deps.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\bin\Debug\netcoreapp3.1\05-multiplos-3-y-2.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\bin\Debug\netcoreapp3.1\05-multiplos-3-y-2.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\bin\Debug\netcoreapp3.1\05-multiplos-3-y-2.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\bin\Debug\netcoreapp3.1\05-multiplos-3-y-2.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\obj\Debug\netcoreapp3.1\05-multiplos-3-y-2.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\obj\Debug\netcoreapp3.1\05-multiplos-3-y-2.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\obj\Debug\netcoreapp3.1\05-multiplos-3-y-2.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\obj\Debug\netcoreapp3.1\05-multiplos-3-y-2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\obj\Debug\netcoreapp3.1\05-multiplos-3-y-2.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\obj\Debug\netcoreapp3.1\05-multiplos-3-y-2.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\05-multiplos-3-y-2\05-multiplos-3-y-2\obj\Debug\netcoreapp3.1\05-multiplos-3-y-2.genruntimeconfig.cache
