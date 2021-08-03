@@ -21,11 +21,26 @@ namespace _04_calcular_triangulo
             Console.WriteLine("--------------------");
 
             int mayor = ladoMayor(uno, dos, tres);
-            Console.WriteLine($"El mayor es {mayor}");
 
+            if (mayor != 0)
+            {
+                Console.WriteLine($"El mayor es {mayor}");
+
+                Console.WriteLine("--------------------");
+                tipoTriangulo(uno, dos, tres);
+
+                Console.WriteLine("--------------------");
+                perimetroArea(uno, dos, tres);
+            }
+            
             Console.WriteLine("--------------------");
-            tipoTriangulo(uno, dos, tres);
+        }
 
+        public static void perimetroArea(int uno, int dos, int tres)
+        {
+            int seccion = uno + dos + tres;
+            int area = (uno * dos) / 2;
+            Console.WriteLine($"El perímetro del triángulo es {seccion} y el área es {area}");
         }
 
         public static void tipoTriangulo(int uno, int dos, int tres)
@@ -47,63 +62,111 @@ namespace _04_calcular_triangulo
         public static int ladoMayor(int uno, int dos, int tres)
         {
             int mayor = 0;
-
-            if (uno > dos)
+            if (uno == dos && uno == tres && dos == tres)
             {
-                if (uno > tres)
+                Console.WriteLine($"Los tres lados son iguales a: {uno} y es un triangulo valido");
+                mayor = uno;
+            }
+            else if (uno == dos || uno == tres || dos == tres)
+            {
+                Console.WriteLine($"Lados uno y dos son iguales");
+                if (uno == dos && tres < uno + dos)
                 {
-                    mayor = uno;
-                    if (uno < (dos + tres) )
+                    if (tres < uno)
                     {
-                        Console.WriteLine($"Lado 1 es mayor, vale: {uno} y es valido");
+                        mayor = uno;
                     }
                     else
                     {
-                        Console.WriteLine("Invalido");
+                        mayor = tres;
+                    }
+                }
+                else if (uno == tres && dos < uno + tres)
+                {
+                    if (dos < uno)
+                    {
+                        mayor = uno;
+                    }
+                    else
+                    {
+                        mayor = dos;
+                    }
+                }
+                else if (dos == tres && uno < dos + tres)
+                {
+                    if (uno < dos)
+                    {
+                        mayor = dos;
+                    }
+                    else
+                    {
+                        mayor = uno;
                     }
                 }
                 else
                 {
-                    mayor = tres;
-                    if (tres < (uno + dos))
-                    {
-                        Console.WriteLine($"Lado 3 es mayor, vale: {tres} y es valido");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalido");
-                    }
+                    Console.WriteLine($"INVALIDO, la base es mayor que la suma de los otros dos lados");
                 }
             }
-            else if (dos > uno)
+            else if (uno != dos && uno != dos && dos != tres)
             {
-                if (dos > tres)
+                if (uno > dos)
                 {
-                    mayor = dos;
-                    if (dos < (uno + tres))
+                    if (uno > tres)
                     {
-                        Console.WriteLine($"Lado 2 es mayor, vale: {dos} y es valido");
+                        mayor = uno;
+                        if (uno < (dos + tres) )
+                        {
+                            Console.WriteLine($"Lado 1 es mayor, vale: {uno} y es un triangulo valido");
+                        }
+                        else
+                        {
+                            Console.WriteLine("INVALIDO, el lado mas grande es mayor a la suma de los otros dos");
+                        }
                     }
                     else
                     {
-                        Console.WriteLine("Invalido");
+                        mayor = tres;
+                        if (tres < (uno + dos))
+                        {
+                            Console.WriteLine($"Lado 3 es mayor, vale: {tres} y es un triangulo valido");
+                        }
+                        else
+                        {
+                            Console.WriteLine("INVALIDO, el lado mas grande es mayor a la suma de los otros dos");
+                        }
                     }
                 }
-                else
+                else if (dos > uno)
                 {
-                    mayor = tres;
-                    if (tres < (uno + dos))
+                    if (dos > tres)
                     {
-                        Console.WriteLine($"Lado 3 es mayor, vale: {tres} y es valido");
+                        mayor = dos;
+                        if (dos < (uno + tres))
+                        {
+                            Console.WriteLine($"Lado 2 es mayor, vale: {dos} y es un triangulo valido");
+                        }
+                        else
+                        {
+                            Console.WriteLine("INVALIDO, el lado mas grande es mayor a la suma de los otros dos");
+                        }
                     }
                     else
                     {
-                        Console.WriteLine("Invalido");
+                        mayor = tres;
+                        if (tres < (uno + dos))
+                        {
+                            Console.WriteLine($"Lado 3 es mayor, vale: {tres} y es un triangulo valido");
+                        }
+                        else
+                        {
+                            Console.WriteLine("INVALIDO, el lado mas grande es mayor a la suma de los otros dos");
+                        }
                     }
                 }
+
             }
             return mayor;
-
         }
     }
 }
