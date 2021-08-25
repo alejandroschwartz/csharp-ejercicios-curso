@@ -1,0 +1,13 @@
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\bin\Debug\netcoreapp3.1\06-menu-ejercicios.exe
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\bin\Debug\netcoreapp3.1\06-menu-ejercicios.deps.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\bin\Debug\netcoreapp3.1\06-menu-ejercicios.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\bin\Debug\netcoreapp3.1\06-menu-ejercicios.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\bin\Debug\netcoreapp3.1\06-menu-ejercicios.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\bin\Debug\netcoreapp3.1\06-menu-ejercicios.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\obj\Debug\netcoreapp3.1\06-menu-ejercicios.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\obj\Debug\netcoreapp3.1\06-menu-ejercicios.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\obj\Debug\netcoreapp3.1\06-menu-ejercicios.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\obj\Debug\netcoreapp3.1\06-menu-ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\obj\Debug\netcoreapp3.1\06-menu-ejercicios.dll
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\obj\Debug\netcoreapp3.1\06-menu-ejercicios.pdb
+C:\Users\Augusto D.j\Desktop\c-sharp\curso-cscharp-juan\06-menu-ejercicios\06-menu-ejercicios\obj\Debug\netcoreapp3.1\06-menu-ejercicios.genruntimeconfig.cache

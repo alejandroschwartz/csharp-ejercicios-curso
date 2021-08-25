@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\04-calcular-triangulo"
   ],
-  "SelectedNode": "\\04-calcular-triangulo.sln",
+  "SelectedNode": "\\04-calcular-triangulo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
